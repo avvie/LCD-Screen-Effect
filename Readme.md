@@ -1,6 +1,6 @@
 ## LCD Screen Effect
 
-More experimentation with shader and learning, this thime it is an LCD Screen effect
+More experimentation with shaders, this time it is an LCD Screen effect
 
 You can change the resolution of the lcd screen, how you will sample the lcd_texture 
 
